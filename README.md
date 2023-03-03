@@ -1,3 +1,16 @@
+
+![image](https://user-images.githubusercontent.com/117683210/222748566-341a1246-e439-48b1-8f8e-9c1027581142.png)
+
+
+
+
+
+
+
+
+
+
+
 - Hi, my name is Josh Knox [@jknox927]
 - I’m interested in software & game development mostly...
 - I’m currently learning REACT, Next/NestJS & the MERN stack...
