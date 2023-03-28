@@ -1,3 +1,5 @@
+<style>button {color: red;}</style>
+
 <p>Hey what's up 👋🏼, my name's Josh and thanks for stopping by. I'm a full-stack developer from the United States and love everything tech and video games. I have an obsessive passion for creativity ranging from filmmaking, script writing, drawing, and of course, making new dev things!
 </p>
 
@@ -10,7 +12,7 @@
 <p>Soooo ya! That's about it for now and thank you for taking the time to get to know me a little more. If you've made it this far, let's connect so we can get to know each other better (whether it be for a side project, hobby, or job don't be shy!)
 </p>
 
-<button style="color:red;"><a href="mailto:joshua.knox927@gmail.com">Let's Talk!</a></button>
+<button><a href="mailto:joshua.knox927@gmail.com">Let's Talk!</a></button>
 
 ### 🗄️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
