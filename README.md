@@ -4,8 +4,13 @@
 <p>Currently, I'm working on a couple of projects surrounding personal health 💪 and travelling as well as expanding my Luau programming knowledge for indie game development stuff 🕹️.
 </p>
 
-<p>Aside from all the fancy tech jargon, if I have any free time, it's straight to the gym and back to a video game or writing a script for a video. Currently obsessed with *Satisfactory* right now but I will say, it gets hectic trying to build things architecturally sound in that game 😅
+<p>Aside from all the fancy tech jargon, if I have any free time, it's straight to the gym and back to a video game or writing a script for a video. Currently obsessed with <strong>Satisfactory</strong> right now but I will say, it gets hectic trying to build things architecturally sound in that game 😅
 </p>
+
+<p>Soooo ya! That's about it for now and thank you for taking the time to get to know me a little more. If you've made it this far, let's connect so we can get to know each other better (whether it be for a side project, hobby, or job don't be shy!)
+</p>
+
+<button><a href="mailto:joshua.knox927@gmail.com">Let's Talk!</a></button>
 
 ### 🗄️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
