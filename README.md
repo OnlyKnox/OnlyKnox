@@ -1,5 +1,3 @@
-<style>button {color: red;}</style>
-
 <p>Hey what's up 👋🏼, my name's Josh and thanks for stopping by. I'm a full-stack developer from the United States and love everything tech and video games. I have an obsessive passion for creativity ranging from filmmaking, script writing, drawing, and of course, making new dev things!
 </p>
 
