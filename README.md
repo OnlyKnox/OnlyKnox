@@ -1,5 +1,11 @@
-Hello There 👋🏼, my name's Josh
-A full-stack developer from the United States
+<p>Hey what's up 👋🏼, my name's Josh and thanks for stopping by. I'm a full-stack developer from the United States and love everything tech and video games. I have an obsessive passion for creativity ranging from filmmaking, script writing, drawing, and of course, making new dev things!
+</p>
+
+<p>Currently, I'm working on a couple of projects surrounding personal health 💪 and travelling as well as expanding my Luau programming knowledge for indie game development stuff 🕹️.
+</p>
+
+<p>Aside from all the fancy tech jargon, if I have any free time, it's straight to the gym and back to a video game or writing a script for a video. Currently obsessed with *Satisfactory* right now but I will say, it gets hectic trying to build things architecturally sound in that game 😅
+</p>
 
 ### 🗄️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
