@@ -13,8 +13,10 @@
 
 <button><a href="mailto:joshua.knox927@gmail.com">Let's Talk!</a></button>
 
-```css
+<style>
+
 #intro {
 color: green;
 }
-```
+  
+</style>
